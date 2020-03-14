@@ -1,0 +1,48 @@
+body {
+	font-family: 'Merriweather', serif;
+	margin: 0;
+
+	padding: 0;
+}
+
+
+.container{
+	width: 750px;
+	margin: 0 auto;
+}
+
+img{
+	max-width: 100%;
+	margin-bottom: 10px;
+
+}
+header{
+	line-height: 55px;
+}
+
+p{
+	font-size: 16px;
+	line-height: 32px
+}
+a{
+	text-decoration: none;
+	color: #000;
+}
+
+header a{
+	margin-right: 25px;
+}
+
+h1{ 
+font-size: 54px 
+}
+
+img+small{
+	display: block;
+	text-align: center;
+	color: grey
+}
+li{
+	font-size: 20px;
+	margin-bottom: 30px;
+}
